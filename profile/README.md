@@ -40,16 +40,6 @@
 
 ---
 
-## Screens Implemented
-
-- Login and Signup
-- Employee Dashboard
-- Leave Request View
-- Manager Leave Approval View
-
-More views are currently under development.
-
----
 
 ## Roadmap
 
