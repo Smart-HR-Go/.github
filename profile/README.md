@@ -40,15 +40,24 @@
 
 ---
 
+## Screens Implemented
+
+> UI development has not yet started. Screen design and user flows are currently in progress.
+
+---
 
 ## Roadmap
 
-- [ ] Complete remaining views (e.g., Document Vault, Feedback Module)
-- [ ] Integrate AWS Lambda + API Gateway with frontend
-- [ ] Implement Cognito authentication
-- [ ] Add push notification service
-- [ ] Finalize payroll logic and performance dashboard
-- [ ] Testing and CI/CD deployment with AWS Amplify
+- [ ] Finalize feature list and architecture
+- [ ] Create UI mockups and user flow diagrams
+- [ ] Set up AWS backend services (Cognito, S3, API Gateway, Lambda)
+- [ ] Start React Native project setup and component structure
+- [ ] Implement authentication and role-based routing
+- [ ] Build Leave Management module (employee + manager)
+- [ ] Integrate work hours logging and cloud storage
+- [ ] Implement performance feedback and payroll estimation
+- [ ] Add push notifications and summary alerts
+- [ ] Conduct testing, optimize performance, and prepare final documentation
 
 ---
 
